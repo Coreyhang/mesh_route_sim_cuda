@@ -1,0 +1,8 @@
+build/
+*.log
+*.o
+.vscode/*
+!.vscode/.clang-format
+!.vscode/launch.json
+!.vscode/tasks.json
+temp/
